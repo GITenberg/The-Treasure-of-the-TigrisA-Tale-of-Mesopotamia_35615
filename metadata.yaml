@@ -1,0 +1,27 @@
+_repo: The-Treasure-of-the-TigrisA-Tale-of-Mesopotamia_35615
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35615-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mockler-Ferryman, A. F. (Augustus Ferryman)
+    alias: Mockler-Ferryman, Augustus Ferryman
+    birthdate: 1856
+    deathdate: 1930
+    gutenberg_agent_id: '26665'
+    url: http://www.gutenberg.org/2009/agents/26665
+description: ''
+gutenberg_issued: '2011-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35615'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Iraq -- Fiction'
+title: 'The Treasure of the Tigris: A Tale of Mesopotamia'
+url: http://www.gutenberg.org/ebooks/35615
