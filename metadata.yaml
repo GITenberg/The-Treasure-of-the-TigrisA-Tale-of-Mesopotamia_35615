@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '26665'
     url: http://www.gutenberg.org/2009/agents/26665
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35615#The-Treasure-of-the-TigrisA-Tale-of-Mesopotamia
 gutenberg_issued: '2011-03-20'
 gutenberg_type: Text
 identifiers:
